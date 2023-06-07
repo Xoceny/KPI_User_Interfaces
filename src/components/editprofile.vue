@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col"></div>
             <div class="col-md-5  rounded justify-content-center  ">
-                <div class="card card-body" style="background-color:#e3ffff">
+                <div class="card card-body" style="background-color:#FFD547">
                     <form name="Update_profile" method="post">
                         <h1 style="text-align: center">Edit Profile </h1>
                         <div class="mb-md-3 d-grid gap-2 ">

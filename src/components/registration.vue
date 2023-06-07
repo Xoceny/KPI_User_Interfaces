@@ -5,7 +5,7 @@
             <div class="col"></div>
 
             <div class="col-md-8  rounded justify-content-center  ">
-                <div class="card card-body" style="background-color:#e3ffff">
+                <div class="card card-body" style="background-color:#FFD547">
                     <form @submit.prevent="registerUser">
                         <h1 style="text-align: center">Sign Up </h1>
                         <div class="mb-md-3 d-grid gap-2 ">

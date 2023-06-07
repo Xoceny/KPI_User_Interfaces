@@ -3,7 +3,7 @@
         <div class="row" style="margin: 1%"></div>
         <div class="row">
             <div class="col"></div>
-            <div class="col-md-8  rounded justify-content-center">
+            <div class="col-md-8  rounded justify-content-center" style="background-color: rgba(71, 157, 255, 0.3);">
                 <div class="card card-body " style="background-color:transparent;  border: none;">
                     <h1 style="text-align: center; color: green">About us</h1>
                     <div class="mb-md-2 d-grid gap-3">
